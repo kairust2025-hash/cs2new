@@ -1,1 +1,75 @@
+[
+    {
+        "username": "axis2",
+        "password": "axis2001",
+        "uuid": "220909709102666",
+        "banned": "no"
+    },
+    {
+        "username": "00",
+        "password": "00",
+        "uuid": "",
+        "banned": ""
+    },
+    {
+        "username": "fatdog",
+        "password": "coreymilkmouth",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "1554",
+        "password": "bootynigga",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "lootg",
+        "password": "lootg",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "sidc",
+        "password": "gypsy7",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "fill",
+        "password": "fillcmg",
+        "uuid": "07D9840_O81E026447",
+        "banned": "no"
+    },
+    {
+        "username": "lv88",
+        "password": "lv701",
+        "uuid": "07E0621_MC1E436720",
+        "banned": "yes"
+    },
+    {
+        "username": "raif8",
+        "password": "raif8!",
+        "uuid": "",
+        "banned": "yes"
+    },
+    {
+        "username": "9997",
+        "password": "7779",
+        "uuid": "",
+        "banned": "yes"
+    },
+    {
+        "username": "mkay",
+        "password": "mkay200!",
+        "uuid": "",
+        "banned": "yes"
+    },
+    {
+        "username": "9997",
+        "password": "7779",
+        "uuid": "",
+        "banned": "yes"
+    }
+]
 
