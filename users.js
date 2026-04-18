@@ -6,8 +6,8 @@
         "banned": "no"
     },
     {
-        "username": "00",
-        "password": "00",
+        "username": "toby",
+        "password": "toby90!",
         "uuid": "",
         "banned": ""
     },
