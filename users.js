@@ -2,7 +2,7 @@
     {
         "username": "axisowner",
         "password": "axis2001",
-        "uuid": "2323231",
+        "uuid": "",
         "banned": "no"
     },
     {
